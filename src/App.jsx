@@ -9,6 +9,7 @@ const App = () => {
       </div>
       <div id="colors-list">{/* colors go here */}</div>
     </div>
+    <div></div>
   );
 };
 
